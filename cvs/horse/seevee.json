@@ -1,1 +1,31 @@
-{}
+{
+    "firstname": "horse",
+    "lastname": "horse",
+    "jobtitle": "horse",
+    "contact": {
+        "mobile": "123123123",
+        "email": "horse",
+        "address": {
+            "street": "horse",
+            "postalcode": "horse",
+            "city": "horse"
+        }
+    },
+    "qualification": "horse",
+    "qualificationalinstitution": "horse",
+    "languages": [],
+    "certifications": [],
+    "topskills": [],
+    "aboutme": [],
+    "experience": [],
+    "methodicalskills": [],
+    "industryskills": [],
+    "itskills": [],
+    "projecthistory": [],
+    "template": {
+        "id": "seevee",
+        "logo": "logo",
+        "url": "https://www.seevee.io"
+    },
+    "locale": "de"
+}
