@@ -1,8 +1,3 @@
 {
-   "template": {
-     "id": "seevee",
-     "logo": "logo",
-     "url": "https://www.seevee.io"
-   },
-   "locale": "de"
+    "selectedCvName": "horse"
 }
